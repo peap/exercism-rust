@@ -10,3 +10,6 @@ Includes:
   [`hello-world`](hello-world/src/lib.rs)
 * [Leap](http://exercism.io/exercises/rust/leap/readme):
   [`leap`](leap/src/lib.rs)
+* [Anagram](http://exercism.io/exercises/rust/anagram/readme):
+  [`anagram`](anagram/src/lib.rs)
+
