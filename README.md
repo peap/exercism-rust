@@ -26,3 +26,5 @@ Includes:
   [`gigasecond`](gigasecond/src/lib.rs)
 * [RNA Transcription](http://exercism.io/exercises/rust/rna-transcription/readme):
   [`rna-transcription`](rna-transcription/src/lib.rs)
+* [Nucleotide Count](http://exercism.io/exercises/rust/nucleotide-count/readme):
+  [`nucleotide-count`](nucleotide-count/src/lib.rs)
