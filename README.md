@@ -30,3 +30,5 @@ Includes:
   [`nucleotide-count`](nucleotide-count/src/lib.rs)
 * [Nucleotide Codons](http://exercism.io/exercises/rust/nucleotide-codons/readme):
   [`nucleotide-codons`](nucleotide-codons/src/lib.rs)
+* [Roman Numerals](http://exercism.io/exercises/rust/roman-numerals/readme):
+  [`roman-numerals`](roman-numerals/src/lib.rs) (WIP!)
