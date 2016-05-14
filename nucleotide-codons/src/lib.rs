@@ -12,8 +12,8 @@ impl CodonInfo {
     }
 
     pub fn name_for(&self, codon: &'static str) -> Result<&'static str, &'static str> {
-        let codon_map = HashMap::new();
-        self.pairs.map(|name| ... );  // todo 
+        // let codon_map = HashMap::new();
+        // self.pairs.map(|name| ... );  // todo 
         Ok("idk")
     }
 }
