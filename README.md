@@ -29,4 +29,4 @@ Includes:
 * [Nucleotide Count](http://exercism.io/exercises/rust/nucleotide-count/readme):
   [`nucleotide-count`](nucleotide-count/src/lib.rs)
 * [Nucleotide Codons](http://exercism.io/exercises/rust/nucleotide-codons/readme):
-  [`nucleotide-codons`](nucleotide-codons/src/lib.rs) (work-in-progress!)
+  [`nucleotide-codons`](nucleotide-codons/src/lib.rs)
