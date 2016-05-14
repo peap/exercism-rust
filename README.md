@@ -8,3 +8,4 @@ Includes:
 
 * [Hello World](http://exercism.io/exercises/rust/hello-world/readme):
   [`hello-world`](hello-world/)
+* [Leap](http://exercism.io/exercises/rust/leap/readme): [`leap`](leap/)
