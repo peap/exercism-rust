@@ -18,3 +18,5 @@ Includes:
   [`sieve`](sieve/src/lib.rs)
 * [Allergies](http://exercism.io/exercises/rust/allergies/readme):
   [`allergies`](allergies/src/lib.rs)
+* [Word Count](http://exercism.io/exercises/rust/word-count/readme):
+  [`word-count`](word-count/src/lib.rs)
