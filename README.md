@@ -20,3 +20,5 @@ Includes:
   [`allergies`](allergies/src/lib.rs)
 * [Word Count](http://exercism.io/exercises/rust/word-count/readme):
   [`word-count`](word-count/src/lib.rs)
+* [Hamming](http://exercism.io/exercises/rust/hamming/readme):
+  [`hamming`](hamming/src/lib.rs)
