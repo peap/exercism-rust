@@ -16,3 +16,5 @@ Includes:
   [`difference-of-squares`](difference-of-squares/src/lib.rs)
 * [Sieve](http://exercism.io/exercises/rust/sieve/readme):
   [`sieve`](sieve/src/lib.rs)
+* [Allergies](http://exercism.io/exercises/rust/allergies/readme):
+  [`allergies`](allergies/src/lib.rs)
