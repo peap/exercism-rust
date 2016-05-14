@@ -22,3 +22,5 @@ Includes:
   [`word-count`](word-count/src/lib.rs)
 * [Hamming](http://exercism.io/exercises/rust/hamming/readme):
   [`hamming`](hamming/src/lib.rs)
+* [Gigasecond](http://exercism.io/exercises/rust/gigasecond/readme):
+  [`gigasecond`](gigasecond/src/lib.rs)
