@@ -14,3 +14,5 @@ Includes:
   [`anagram`](anagram/src/lib.rs)
 * [Difference of Squares](http://exercism.io/exercises/rust/difference-of-squares/readme):
   [`difference-of-squares`](difference-of-squares/src/lib.rs)
+* [Sieve](http://exercism.io/exercises/rust/sieve/readme):
+  [`sieve`](sieve/src/lib.rs)
