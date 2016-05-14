@@ -12,4 +12,5 @@ Includes:
   [`leap`](leap/src/lib.rs)
 * [Anagram](http://exercism.io/exercises/rust/anagram/readme):
   [`anagram`](anagram/src/lib.rs)
-
+* [Difference of Squares](http://exercism.io/exercises/rust/difference-of-squares/readme):
+  [`difference-of-squares`](difference-of-squares/src/lib.rs)
