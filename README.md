@@ -24,3 +24,5 @@ Includes:
   [`hamming`](hamming/src/lib.rs)
 * [Gigasecond](http://exercism.io/exercises/rust/gigasecond/readme):
   [`gigasecond`](gigasecond/src/lib.rs)
+* [RNA Transcription](http://exercism.io/exercises/rust/rna-transcription/readme):
+  [`rna-transcription`](rna-transcription/src/lib.rs)
