@@ -6,7 +6,11 @@ use roman_numerals::Roman;
 
 fn main() {
     let args: Vec<String> = env::args().collect();
-    let num: u32 = args[1].parse().unwrap();
-    let roman = Roman::from(num);
-    println!("{} -> {}", num, roman);
+    if args.len() != 2 {
+        println!("Error: need a number to convert.");
+    } else {
+        let num: u32 = args[1].parse().unwrap();
+        let roman = Roman::from(num);
+        println!("{} -> {}", num, roman);
+    }
 }
